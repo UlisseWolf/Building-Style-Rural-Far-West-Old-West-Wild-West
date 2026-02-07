@@ -1,0 +1,17 @@
+{
+  "explicit": [
+    "ulisse-wolf:building-style-rural-old-west",
+    "simcoug:rss-diagonal-homes",
+    "simcoug:farmhouses",
+    "simcoug:old-rs-neighborhoods",
+    "simcoug:maxis-rss-homes",
+    "simcoug:lots-vol01-jmyers-homes",
+    "jmyers2043:homes-pack",
+	"cycledogg:early-19th-century-residentials-pack"
+  ],
+  "channels": [
+    "https://memo33.github.io/sc4pac/channel/",
+    "https://sc4pac.simtropolis.com/",
+    "https://sc4evermore.github.io/sc4pac-channel/channel/"
+  ]
+}
